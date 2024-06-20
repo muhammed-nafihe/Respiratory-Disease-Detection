@@ -11,10 +11,10 @@
 ## Group Members
 
 > [!IMPORTANT]
-1.TIJO THOMAS- @TijoThomas2409 (H00445593) <br />
-2.VISHNUDEV AMMUPPILLY- @DEVIL846 (H00435842)  <br />
-3.MUHAMMED NAFIHE- @muhammed-nafihe (H00446008) <br />
-4.MARIYA SEBASTIAN- mariasebastian291 (H00446384) <br />
+1.TIJO THOMAS <br />
+2.VISHNUDEV AMMUPPILLY  <br />
+3.MUHAMMED NAFIHE (H00446008) <br />
+4.MARIYA SEBASTIAN<br />
 
 ## Initial Project Proposal
 * Our Group Name : NTVM
