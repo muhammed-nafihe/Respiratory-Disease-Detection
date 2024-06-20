@@ -1,11 +1,5 @@
 # Data Mining and Machine Learning Group Coursework
 
-> [!NOTE]
-> You should update and customize this README as the project progresses.
-
-> [!IMPORTANT]
-> See the COURSEWORK specification on CANVAS for details of the group coursework criteria/deliverables
-
 ## Group Members
 
 > [!IMPORTANT]
@@ -16,7 +10,7 @@
 
 ## Initial Project Proposal
 * Our Group Name : NTVM
-* Project Title : Respiratory Disease Detection
+* Project Title : ##Respiratory Disease Detection
 * To check whether a person is effected  with a respiratory  diseases or not </br >
 * Our project plan is to detect and identify different respiratory diseases mainly COPD and COVID 18 from the respiratory sounds recorded by an electrical stethoscope. After the 
   pandemic wave, people all over the world are susceptible more to respiratory diseases and the detection of such disease in early stages is necessary for better health care. Our team 
