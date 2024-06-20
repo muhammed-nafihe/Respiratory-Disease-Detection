@@ -1,0 +1,34 @@
+jupyter notebook - 6.5.4
+python - 3.12.0
+
+LIBRARY:
+import os
+import csv
+import keras
+import random 
+import librosa
+import pathlib
+import warnings
+import numpy as np
+import pandas as pd
+import seaborn as sns
+from PIL import Image
+import soundfile as sf
+import librosa.display
+import librosa.display as lbd
+import librosa.util as lb_util
+import matplotlib.pyplot as plt
+from collections import Counter
+from sklearn.tree import plot_tree
+from imblearn.over_sampling import SMOTE
+from sklearn.metrics import confusion_matrix
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.model_selection import GridSearchCV
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import LabelEncoder, StandardScaler
+from sklearn.metrics import classification_report, accuracy_score
+
+
+
+
+
